@@ -22,4 +22,8 @@ A aplicação recebe a data de nascimento via formulário, processa os dados com
 1. Instale o XAMPP
 2. Coloque o projeto dentro da pasta `htdocs`
 3. Inicie o Apache
-4. Acesse:
+4. Acesse: http://localhost/zodiac-sign-web-app/index.php 
+
+## 📌 Autor
+Arthur – Estudante de Análise e Desenvolvimento de Sistemas
+
